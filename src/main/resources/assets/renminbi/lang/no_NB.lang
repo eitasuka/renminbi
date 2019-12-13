@@ -1,0 +1,17 @@
+#PARS﻿E_ESCAPES
+# This is probably poor. Sorry!
+
+# Errors
+command.rmb.usageError=Misbruk. Prøv /rmb hjelp?
+command.rmb.noDirectoryProvidedError=Ingen katalog gitt. Prøv /rmb hjelp?
+command.rmb.directoryContainsSpacesError=Gjør katalognavnet ditt inneholde et mellomrom? Prøv setter det i "sitater"
+
+# Notifications
+command.rmb.loggingToEnabled=Skriving er aktiverer:
+command.rmb.loggingToDisabled=Skriving er deaktiverer. Skriving katalog:
+command.rmb.loggingEnabled=Skriving aktivert.
+command.rmb.loggingDisabled=Skriving deaktivert.
+
+# Usage
+command.rmb.usage=/rmb <hjelp|status|veksle>
+command.rmb.help=/rmb hjelp: Prints this message.\n/rmb status: Skriver om skriver er deaktivert eller aktivert, og katalogen blir skrevet til.\n/rmb toggle: Aktiver/deaktiver skriver\nLoggnavnet er starttidspunktet for spillet, .minecraft/renminbi/YYYY-MM-DD.HH:MM:SS.log.

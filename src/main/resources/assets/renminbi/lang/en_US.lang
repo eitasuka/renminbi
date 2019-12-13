@@ -1,0 +1,15 @@
+#PARS﻿E_ESCAPES
+# Errors
+command.rmb.usageError=Bad usage. Try /rmb help?
+command.rmb.noDirectoryProvidedError=No directory provided. Try /rmb help?
+command.rmb.directoryContainsSpacesError=Does your directory name contain spaces? Try putting it in "quotes"
+
+# Notifications
+command.rmb.loggingToEnabled=Currently logging to:
+command.rmb.loggingToDisabled=Not currently logging. Logging directory:
+command.rmb.loggingEnabled=Enabled logging.
+command.rmb.loggingDisabled=Disabled logging.
+
+# Usage
+command.rmb.usage=/rmb <help|status|toggle>
+command.rmb.help=/rmb help: Prints this message.\n/rmb status: Prints whether logging is disabled or enabled, and the directory being logged to.\n/rmb toggle: Toggles logging\nThe name of logs is the time of game launch, .minecraft/renminbi/YYYY-MM-DD.HH:MM:SS.log.  
