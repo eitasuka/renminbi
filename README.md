@@ -1,5 +1,7 @@
 # Renminbi
 
+**It works I just hate Java and I'm not going through the effort of recreating a development environment for this just to fix bugs.**
+
 Renminbi is an open-source 1.8.x chat logging mod. It keeps track of everything that touches the chat box
 and stores it locally in XML-formatted logs. Alongside every message stored is a timestamp, kept
 to the second in local time.
